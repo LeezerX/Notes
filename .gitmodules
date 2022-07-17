@@ -1,0 +1,3 @@
+[submodule "math-model"]
+	path = math-model
+	url = git@github.com:LeezerX/math-model.git
